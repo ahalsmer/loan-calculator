@@ -219,7 +219,7 @@ scope defined by a function as an inner scope. Nested functions define
 nested scopes. A variable's scope is determined by where it is declared.
 
 Outer scope varaiables can be accessed by the inner scope, but inner
-scope variables cannot be accessed in the outer scope.cd
+scope variables cannot be accessed in the outer scope.
 */
 
 
